@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #d3d4cf;
+}
+
+.second-table{
+    width: 500px;
+    height: 700px;
+    background-color: #000;
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    transform: scale(0.7);
+    box-shadow: 0px 10px 10px -5px black;
